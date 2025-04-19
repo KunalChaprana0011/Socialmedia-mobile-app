@@ -19,6 +19,7 @@ export default function TabsLayout() {
           elevation: 0,
           height: 50,
           paddingBottom:8,
+      
         },
       }}
     >
